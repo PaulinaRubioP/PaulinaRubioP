@@ -1,16 +1,18 @@
 # Hola 👋, soy Rosa Rubio 
 
-Usa este espacio para presentarte y contar a la comunidad de GitHub cuál es tu experiencia, tus habilidades y tus objetivos profesionales.
+Comencé mi formación en 2003 graduandome de Administración de Empresas,
 
-Puedes usar este espacio para incluir información sobre tu educación, tus certificaciones, tus proyectos, tus logros y tus metas profesionales.
+Mejoré mis conocimientos con diferentes cursos, siempre relacionados al ámbito informático.
 
-Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizarlo según tus necesidades y preferencias.
+En 2023 me gradué como Ingeniera Informatica , después de ello realicé especializaciones en:
+
+FrontEnd, Python, PowerBI.
+
 
 ## 📫 Contacto
 
 - Puedes contactarme a través de mi correo electrónico: **<paulina.rubio.p@gmail.com>**
 - Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/rosa-rubio-pacheco-frontend/)**
-- Puedes visitar mi **[sitio web](https://example.com)**
 
 ### 🎨 Frontend
 
