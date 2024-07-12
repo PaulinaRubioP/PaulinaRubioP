@@ -8,8 +8,8 @@ Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizar
 
 ## 📫 Contacto
 
-- Puedes contactarme a través de mi correo electrónico: **<paulina.rubio.p**@gmail.com>**
-- Puedes contactarme a través de **[Linkedin]((https://www.linkedin.com/in/rosa-rubio-pacheco-frontend/))**
+- Puedes contactarme a través de mi correo electrónico: **<paulina.rubio.p@gmail.com>**
+- Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/rosa-rubio-pacheco-frontend/)**
 - Puedes visitar mi **[sitio web](https://example.com)**
 
 ### 🎨 Frontend
@@ -18,9 +18,7 @@ Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizar
 
 ### 🔨 Backend
 
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 
 
 
